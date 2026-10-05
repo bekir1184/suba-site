@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="suba-mark" width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <circle cx="100" cy="100" r="100" fill="#5B6CF0"/>
+      <path d="M 137 35.9141 A 74 74 0 1 1 63 35.9141" fill="none" stroke="#F6F8FF" stroke-width="30" stroke-linecap="round"/>
+      <circle cx="100" cy="100" r="32" fill="#1A1E30"/>
+      <circle cx="110" cy="90" r="9" fill="#F6F8FF"/>
+    </svg>
