@@ -1,0 +1,50 @@
+# Suba
+
+> Suba is an iPhone and iPad app that keeps every recurring payment (subscriptions, bills, rent, free trials) in one place and reminds you before each one is due or charges. It never connects to your bank.
+
+## Facts
+
+- What it does: tracks recurring payments, imports subscriptions from a screenshot of the App Store subscriptions page (read on the device, never uploaded), reminds you before due dates and before free trials turn into charges, shows monthly and yearly totals in your own currency.
+- Price: free to download. The free version tracks up to 8 payments. Suba Pro is a one-time purchase, not a subscription.
+- Privacy: no bank login, no ads, no account. Data stays on the user's iPhone and in the user's own iCloud.
+- Platforms: iPhone and iPad (iCloud sync between devices, layouts for iPhone Duo).
+- Languages (11): English, Turkish, German, French, Spanish (Spain and Mexico), Italian, Portuguese (Brazil), Japanese, Traditional Chinese, Korean.
+- Cancelling: Suba does not cancel subscriptions for you. It shows step-by-step instructions and a link to the official cancellation page for 200+ services.
+- Developer: Bekir Ersever (independent). Contact: hello@suba.info
+
+## Cancel guides
+
+- [Cancel guides index, English](https://suba.info/cancel/): 202 step-by-step guides (30 with general steps), each with the official cancellation link and the date it was last checked. One page per service: https://suba.info/cancel/<service-id>/
+- [Cancel guides index, Türkçe](https://suba.info/tr/cancel/): 61 step-by-step guides (5 with general steps), each with the official cancellation link and the date it was last checked. One page per service: https://suba.info/tr/cancel/<service-id>/
+
+### Most popular guides (English)
+
+- [How to cancel Netflix](https://suba.info/cancel/netflix/)
+- [How to cancel Amazon Prime](https://suba.info/cancel/amazon-prime/)
+- [How to cancel Disney+](https://suba.info/cancel/disney-plus/)
+- [How to cancel Spotify Premium](https://suba.info/cancel/spotify/)
+- [How to cancel Hulu](https://suba.info/cancel/hulu/)
+- [How to cancel YouTube Premium](https://suba.info/cancel/youtube/)
+- [How to cancel HBO Max](https://suba.info/cancel/max/)
+- [How to cancel iCloud+](https://suba.info/cancel/icloud/)
+- [How to cancel Apple Music](https://suba.info/cancel/apple-music/)
+- [How to cancel Peacock](https://suba.info/cancel/peacock/)
+- [How to cancel Paramount+](https://suba.info/cancel/paramount-plus/)
+- [How to cancel NOW](https://suba.info/cancel/now/)
+- [How to cancel discovery+](https://suba.info/cancel/discovery-plus/)
+- [How to cancel Apple TV](https://suba.info/cancel/apple-tv/)
+- [How to cancel ChatGPT Plus](https://suba.info/cancel/chatgpt/)
+- [How to cancel Google One](https://suba.info/cancel/google-one/)
+- [How to cancel Walmart+](https://suba.info/cancel/walmart-plus/)
+- [How to cancel Costco Membership](https://suba.info/cancel/costco/)
+- [How to cancel Tesco Clubcard Plus](https://suba.info/cancel/tesco-clubcard-plus/)
+- [How to cancel PlayStation Plus](https://suba.info/cancel/playstation-plus/)
+
+## Pages
+
+- [Home (English)](https://suba.info/)
+- [Home (Türkçe)](https://suba.info/tr/)
+- [Privacy policy](https://suba.info/privacy/)
+- [Terms of use](https://suba.info/terms/)
+- [Support](https://suba.info/support/)
+- [Sitemap](https://suba.info/sitemap.xml)
