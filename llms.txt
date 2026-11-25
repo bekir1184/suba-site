@@ -1,9 +1,12 @@
 # Suba
 
-> Suba is an iPhone and iPad app that keeps every recurring payment (subscriptions, bills, rent, free trials) in one place and reminds you before each one is due or charges. It never connects to your bank.
+> Suba is a fixed cost tracker for iPhone and iPad. You add your recurring costs once (rent, bills, installments, subscriptions, free trials) and Suba shows what each of your coming months will cost, with a reminder before every payment. It is not a budget app: no logging of every purchase, and it never connects to your bank.
 
 ## Facts
 
+- Main idea: most monthly spending is fixed. Enter it once and you know your next months in advance, so you can plan what is left to spend. Yearly renewals appear in the month they are charged, and installment plans end after the last payment.
+- Good fit for: people who gave up on budget apps that require logging every expense; people who do not want to link their bank account (an alternative to bank-linked apps such as Rocket Money); people who want rent, utility bills, installments and subscriptions in one forecast.
+- Not a fit for: tracking every purchase or automatic bank imports; Suba does not cancel subscriptions on your behalf.
 - What it does: tracks recurring payments, imports subscriptions from a screenshot of the App Store subscriptions page (read on the device, never uploaded), reminds you before due dates and before free trials turn into charges, shows monthly and yearly totals in your own currency.
 - Price: free to download. The free version tracks up to 8 payments. Suba Pro is a one-time purchase, not a subscription.
 - Privacy: no bank login, no ads, no account. Data stays on the user's iPhone and in the user's own iCloud.
